@@ -1,5 +1,5 @@
-👋 Hi, I’m @Prerna2599
-👀 I’m interested in Business and Data Analytics
+-👋 Hi, I’m @Prerna2599
+-👀 I’m interested in Business and Data Analytics
 📊 I have experience in generating business insights using Excel and ZoHo CRM
 🌱 I’m currently learning MySQL and Tableau
 🧑‍🍳 I love cooking and sketching in my free time
