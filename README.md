@@ -1,7 +1,7 @@
 👋 Hi, I’m @Prerna2599  
 👀 I’m interested in Business and Data Analytics  
 📊 I have experience in generating business insights using Excel and ZoHo CRM  
-🌱 I’m currently learning MySQL and Tableau  
+🌱 My skillset includes Excel, Tableau, Power BI, and SQL  
 🧑‍🍳 I love cooking and sketching in my free time  
 
 
